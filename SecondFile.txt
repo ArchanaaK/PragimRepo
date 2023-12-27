@@ -1,3 +1,2 @@
 Second file created by Developer1
-
 File modified to test merge from git hub
