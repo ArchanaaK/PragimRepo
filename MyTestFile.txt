@@ -1,2 +1,4 @@
-File Created by Developer2
-File modified by Developer1
+Understanding branching 
+File1 created
+
+Modified changes committed to cdt branch 
